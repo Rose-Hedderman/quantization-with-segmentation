@@ -1,5 +1,11 @@
 Addition: quantize.py with methods from PyTorch quantization documentation and tutorials.
+1. Install requirements.txt and torch for CPU.
+2. Download pre-trained model and place in correct path.
+3. Run predict.py with own test image.
+4. Open quantize.py to define model path and others.
+5. Run quantize.py.
 
+Disclaimer: quantize.py won't run on its own due to missing training function that cannot be shared.
 
 
 # U-Net: Semantic segmentation with PyTorch
